@@ -34,9 +34,7 @@ public class DescuentoTienda {
             System.out.println("Color de etiqueta no válido.");
         }
 
-
         montoPagar = compra - descuento;
-
 
         System.out.println("Descuento aplicado: $" + descuento);
         System.out.println("Monto a pagar: $" + montoPagar);
