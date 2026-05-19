@@ -14,6 +14,7 @@ public class DescuentoTienda {
 
         entrada.nextLine();
 
+
         System.out.println("Ingrese el color de la etiqueta:");
         etiqueta = entrada.nextLine().toLowerCase();
 
