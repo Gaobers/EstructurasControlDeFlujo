@@ -6,7 +6,7 @@ public class DescuentoTienda {
 
         Scanner entrada = new Scanner(System.in);
 
-        double compra, descuento = 0, montoPagar;
+        double compra, descuento, montoPagar;
         String etiqueta;
 
         System.out.println("Ingrese el valor de la compra:");
@@ -32,6 +32,8 @@ public class DescuentoTienda {
 
         } else {
             System.out.println("Color de etiqueta no válido.");
+            entrada.close();
+            return;
         }
 
         montoPagar = compra - descuento;
