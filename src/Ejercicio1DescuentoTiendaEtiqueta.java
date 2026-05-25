@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DescuentoTienda {
+public class Ejercicio1DescuentoTiendaEtiqueta {
 
     public static void main(String[] args) {
 

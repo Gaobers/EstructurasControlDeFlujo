@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SumaRepetitiva {
+public class Ejercicio4SumaRepetitiva {
 
     public static void main(String[] args) {
 

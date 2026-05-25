@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumerosPares {
+public class Ejercicio2NumerosParesDesde0 {
 
     public static void main(String[] args) {
 

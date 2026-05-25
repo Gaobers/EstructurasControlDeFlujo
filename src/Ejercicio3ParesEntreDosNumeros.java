@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ParesEntreDosNumeros {
+public class Ejercicio3ParesEntreDosNumeros {
 
     public static void main(String[] args) {
 
